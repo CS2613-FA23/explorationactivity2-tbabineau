@@ -1,3 +1,7 @@
+# Library Information
+The library that I selected was the racket/gui/base library included in the racket/gui language. This library allows for the creation of graphical user interfaces in Racket with a myriad of different widgets. The list of these widgets includes buttons, radio buttons, sliders, gauges, everthing that someone might need when creating a user interface. 
+
+
 1. Which package/library did you select?
 2. What is the package/library?
 • What purpose does it serve?
