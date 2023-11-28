@@ -2,7 +2,7 @@
 # ExplorationActivity2
 
 # Library Information
-The sample program demonstrates the [racket/gui language](https://docs.racket-lang.org/gui/) which combines the racket/gui/base library and the racket/draw library, which allows us to create dynamic graphical user interfaces in Racket.
+The sample program demonstrates the [racket/gui/base library](https://docs.racket-lang.org/gui/) which allows us to create dynamic graphical user interfaces in Racket.
 
 # How to run the Program
 1. Install Racket. The installer for the Racket IDE "Dr. Racket" can be found [here](https://racket-lang.org/download/). Make sure that you download the correct installer for your operating system. Once downloaded, run the installer and follow the steps to get Racket installed on your machine.
